@@ -7,7 +7,7 @@ This project demonstrates the Bridge Design Pattern by separating the abstractio
 1. Abstraction (Goods): Represents different types of goods that can be purchased.
 2. Implementation (IPaymentMethod): Represents different ways of processing payments for goods.
 
-#Project Structure
+#Project Structure:
 
 The project is divided into three main parts, each within its own folder:
 
