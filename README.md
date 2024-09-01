@@ -8,6 +8,7 @@ This project demonstrates the Bridge Design Pattern by separating the abstractio
 2. Implementation (IPaymentMethod): Represents different ways of processing payments for goods.
 
 #Project Structure
+
 The project is divided into three main parts, each within its own folder:
 
 1. Abstraction

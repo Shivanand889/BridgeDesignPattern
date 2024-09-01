@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Abstraction",
+    "\\Implementation",
+    "\\UnitTesting"
   ],
-  "SelectedNode": "\\Assignment1.sln",
+  "SelectedNode": "\\BridgeDesignPattern.sln",
   "PreviewInSolutionExplorer": false
 }
