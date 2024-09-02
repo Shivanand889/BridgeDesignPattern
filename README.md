@@ -2,12 +2,12 @@
 
 This project demonstrates the Bridge Design Pattern by separating the abstraction of Goods from the implementation of Payment Methods. The design allows you to easily extend both Goods and Payment Methods independently without altering the existing code.
 
-#Key Concepts
+# Key Concepts
 
 1. Abstraction (Goods): Represents different types of goods that can be purchased.
 2. Implementation (IPaymentMethod): Represents different ways of processing payments for goods.
 
-#Project Structure:
+# Project Structure:
 
 The project is divided into three main parts, each within its own folder:
 
