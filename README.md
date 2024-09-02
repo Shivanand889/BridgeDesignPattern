@@ -1,4 +1,4 @@
-#Overview
+##Overview
 
 This project demonstrates the Bridge Design Pattern by separating the abstraction of Goods from the implementation of Payment Methods. The design allows you to easily extend both Goods and Payment Methods independently without altering the existing code.
 
